@@ -1,23 +1,23 @@
-Johnny Coder
+Narendra Kumar
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                        naninarendra234@gmail.com
+MyTown 1000                           Andhra Pradesh
+MyCountry                            India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022
+:   **B.Tech Informaion Technology R.V.R & JC COLLEGE OF ENGINEERING (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+20l6-2018
+:   **Intermediate  MPC Sri Chaitanya Junior College**; University of
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
